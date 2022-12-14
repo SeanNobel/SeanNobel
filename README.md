@@ -7,7 +7,7 @@
   </a>
 </p>
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanNobel&layout=compact&hide=jupyternotebook&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanNobel&layout=compact&hide=jupyter%20notebook&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 [![Sensho Nobe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanNobel&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 
